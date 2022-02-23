@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abby722, master student on material science using large-scale facilities
+- 👋 Hi, I’m @Abby722, master student in material science using large-scale facilities
 - 👀 I’m interested in signal and energy processing, understanding human intelligence and secrets of universe by means of machine learning.
 - 🌱 I’m currently learning solid state physics and computer science
 - 💞️ I’m looking to collaborate on anything interesting and heuristic, projects on games, finance, or scientific computation.
